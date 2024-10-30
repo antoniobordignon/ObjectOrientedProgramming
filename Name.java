@@ -7,5 +7,5 @@ public class Name {
     String sobrenome = scan.next();
 
     System.out.println(nome + " " + sobrenome);
-  }
+  }
 }

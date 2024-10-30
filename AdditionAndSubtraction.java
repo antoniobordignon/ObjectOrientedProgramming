@@ -8,5 +8,5 @@ public class AdditionAndSubtraction {
 
     System.out.println("soma = " + (firstNumber + secondNumber));
     System.out.println("subtracao = " + (firstNumber - secondNumber));
-  }
+  }
 }

@@ -5,5 +5,5 @@ public class PowerOftwo {
     Scanner scan = new Scanner(System.in);
     int integerNumber = scan.nextInt();
     System.out.println(integerNumber * integerNumber);
-  }
+  }
 }
